@@ -13,3 +13,8 @@
 - Bio: Web App Developer.
 - GitHub: [Aakash Garg](https://github.com/aakash01garg)
 
+#### Name: [Salsabila Azzahra](https://github.com/azzahra07)
+- Place: West Java, Indonesia
+- Bio: Web App Developer.
+- GitHub: [Salsabila Azzahra](https://github.com/azzahra07)
+
