@@ -1,0 +1,10 @@
+// LANGUAGE: C++
+// AUTHOR: aakash aggarwal
+// GITHUB: https://github.com/asquaree
+
+#include <iostream>
+
+int main ()
+{
+    cout << "Hello World";
+}
