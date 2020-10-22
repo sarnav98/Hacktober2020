@@ -24,3 +24,7 @@
 - Bio: Web and Mobile Developer.
 - GitHub: [Dhimas Bayu](https://github.com/bailram)
 
+#### Name: [Ashwith](https://github.com/ashwithpoojary98)
+- Place: Mangalore
+- Bio: Software developer.
+- GitHub: [Ashwith](https://github.com/ashwithpoojary98)
