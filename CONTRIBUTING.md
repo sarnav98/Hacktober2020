@@ -18,3 +18,9 @@
 - Bio: Web App Developer.
 - GitHub: [Salsabila Azzahra](https://github.com/azzahra07)
 
+
+#### Name: [Dhimas Bayu](https://github.com/bailram)
+- Place: East Java, Indonesia
+- Bio: Web and Mobile Developer.
+- GitHub: [Dhimas Bayu](https://github.com/bailram)
+
