@@ -28,3 +28,8 @@
 - Place: Mangalore
 - Bio: Software developer.
 - GitHub: [Ashwith](https://github.com/ashwithpoojary98)
+
+#### Name: [Hare Krishna Singh](https://github.com/hksingh4545)
+- Place: Gujarat, India
+- About: Programmer, YouTuber.
+- GitHub: [hksingh4545](https://github.com/hksingh4545)
