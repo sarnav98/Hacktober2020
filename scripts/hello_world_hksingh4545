@@ -1,0 +1,22 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+#define ll long long
+#define ar array
+
+
+void solve() {
+	cout<<"Hello, World!";
+}
+
+int main() {
+	ios::sync_with_stdio(0);
+	cin.tie(0);
+	//cout<<"HK::"<<1ll<<endl;
+	int t;
+	//cin >> t;
+	for(int i=1; i<=t; ++i) {
+		//cout << "Case #" << i << ": ";
+		solve();
+	}
+}
