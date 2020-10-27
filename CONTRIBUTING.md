@@ -33,3 +33,8 @@
 - Place: Gujarat, India
 - About: Programmer, YouTuber.
 - GitHub: [hksingh4545](https://github.com/hksingh4545)
+
+#### Name: [Dikshit Kaushal](https://github.com/dikshitkaushal)
+- Place: Himachal Pradesh, India
+- About: Game Developer,Student.
+- GitHub: [dikshitkaushal](https://github.com/dikshitkaushal)
