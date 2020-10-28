@@ -38,3 +38,9 @@
 - Place: Himachal Pradesh, India
 - About: Game Developer,Student.
 - GitHub: [dikshitkaushal](https://github.com/dikshitkaushal)
+
+
+#### Name: [Adarsh Rana](https://github.com/adarshrana205/)
+- Place: Punjab, India
+- About: App Developer,Student.
+- GitHub: [adarshrana205](https://github.com/adarshrana205/)
